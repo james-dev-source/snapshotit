@@ -14,4 +14,4 @@ Shotty uses the configuration file creataed by the AWS cli
 
 `pipenv run python shotty/shotty.py
 
-test
+testing
