@@ -12,6 +12,6 @@ Shotty uses the configuration file creataed by the AWS cli
 
 ## Running - on windows powershell
 
-`pipenv run python shotty/shotty.py
+`pipenv run python shotty/shotty.py <command> <--project=PROJECT>
 
-testing
+*command* is list, start, or stop
